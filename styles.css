@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.periods {
+    margin: 10px;
+}
+
+button {
+    margin: 5px;
+}
+
+#timer {
+    font-size: 2em;
+    margin: 10px;
+}
+
+#court {
+    width: 600px;
+    height: 400px;
+    background-color: #006400;
+    position: relative;
+    margin: 10px;
+    border: 1px solid #000;
+}
